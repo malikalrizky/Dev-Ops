@@ -8,11 +8,11 @@
 
 [Version Control System](https://github.com/malikalrizky/Task-Bootcampdw/blob/main/DevOps/Day%204%20-%20Version%20Control%20System/Day%204%20-%20Version%20Control%20System.md)
 
-[CI/CD with Cloudflare Pages](https://github.com/malikalrizky/Task-Bootcampdw/tree/main/DevOps/Day%205%20-%20CI%20CD%20with%20Cloudflare%20Pages)
+[CI/CD with Cloudflare Pages](https://github.com/malikalrizky/Devops/blob/main/DevOps/Day%205%20-%20CI%20CD%20with%20Cloudflare%20Pages/Day%205%20-%20CI%20CD%20with%20Cloudflare%20Pages.md)
 
-[Manage Server with Terminal](https://github.com/malikalrizky/Task-Bootcampdw/blob/main/DevOps/Day%206%20-%20Manage%20Server%20with%20Terminal)
+[Manage Server with Terminal](https://github.com/malikalrizky/Devops/blob/main/DevOps/Day%206%20-%20Manage%20Server%20with%20Terminal/Day%206%20-%20Manage%20Server%20with%20Terminal.md)
 
-[Web Server and Load Balancing](https://github.com/malikalrizky/Task-Bootcampdw/blob/main/DevOps/Day%207%20-%20Web%20Server%20and%20Load%20Balancing)
+[Web Server and Load Balancing](https://github.com/malikalrizky/Devops/blob/main/DevOps/Day%207%20-%20Web%20Server%20and%20Load%20Balancing/Day%207%20-%20Web%20Server%20and%20Load%20Balancing.md)
 
 [Cloud Computing with IDCloudHost](https://github.com/malikalrizky/Stage-2-Devops/blob/main/Day%201%20-%20Cloud%20Computing%20with%20IDCH/Day%201%20-%20Cloud%20Computing%20with%20IDCH.md)
 
