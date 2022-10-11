@@ -28,6 +28,6 @@
 
 [Kubernetes Microservices](https://github.com/malikalrizky/Dev-Ops/wiki/Kubernetes-Microservices)
 
-[Terraform](#)
+[Terraform](https://github.com/malikalrizky/Dev-Ops/wiki/Terraform)
 
 [Final Task](https://github.com/malikalrizky/Dev-Ops/wiki/Final)
