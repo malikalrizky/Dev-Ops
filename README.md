@@ -28,6 +28,8 @@
 
 [Kubernetes Microservices](https://github.com/malikalrizky/Dev-Ops/wiki/Kubernetes-Microservices)
 
-[Terraform](https://github.com/malikalrizky/Dev-Ops/wiki/Terraform)
+[Terraform HashiStack](https://github.com/malikalrizky/Dev-Ops/wiki/Terraform)
 
 [Final Task](https://github.com/malikalrizky/Dev-Ops/wiki/Final)
+
+[Google Cloud Platform](https://github.com/malikalrizky/Dev-Ops/wiki/Google-Cloud-Platform)
